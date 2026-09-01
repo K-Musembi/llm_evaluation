@@ -1,0 +1,10 @@
+{
+  "task": "sib",
+  "model": "Gemma2-27B-FFT",
+  "language": "luo_Latn",
+  "examples": 20,
+  "review_file": "luo_Latn.review.csv",
+  "score_type": "accuracy",
+  "score": 0.0,
+  "item_score_type": "exact category accuracy (0 or 1)"
+}

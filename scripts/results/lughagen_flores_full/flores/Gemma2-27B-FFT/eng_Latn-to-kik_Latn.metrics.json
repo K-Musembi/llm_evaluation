@@ -1,0 +1,10 @@
+{
+  "task": "flores",
+  "model": "Gemma2-27B-FFT",
+  "language": "eng_Latn-to-kik_Latn",
+  "examples": 1012,
+  "review_file": "eng_Latn-to-kik_Latn.review.csv",
+  "score_type": "corpus ChrF",
+  "score": 11.783177260781605,
+  "item_score_type": "sentence ChrF (for human inspection; headline score is corpus ChrF)"
+}

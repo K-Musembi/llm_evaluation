@@ -1,0 +1,3 @@
+task,model,language,n,accuracy,chrf,mean_latency_ms
+flores,Llama-8B-FFT,swh_Latn-to-eng_Latn,1,,25.06636652300056,1126.04
+flores,Llama-8B-FFT,eng_Latn-to-swh_Latn,1,,23.035290335728238,768.52

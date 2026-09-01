@@ -1,0 +1,10 @@
+{
+  "task": "flores",
+  "model": "Llama-8B-CPT",
+  "language": "kik_Latn-to-eng_Latn",
+  "examples": 1012,
+  "review_file": "kik_Latn-to-eng_Latn.review.csv",
+  "score_type": "corpus ChrF",
+  "score": 20.67216459079479,
+  "item_score_type": "sentence ChrF (for human inspection; headline score is corpus ChrF)"
+}

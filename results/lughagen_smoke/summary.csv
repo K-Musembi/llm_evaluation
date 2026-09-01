@@ -1,0 +1,2 @@
+task,model,language,n,accuracy,chrf,mean_latency_ms
+sib,Llama-8B-FFT,swh_Latn,20,0.2,,1607.3719999999998

@@ -1,0 +1,25 @@
+{
+  "created_at": "2026-08-29T08:01:49.106990+00:00",
+  "tasks": [
+    "sib"
+  ],
+  "models": [
+    "Gemma2-27B-FFT"
+  ],
+  "languages": [
+    "swh_Latn"
+  ],
+  "limit": 20,
+  "flores_directions": "both",
+  "flores_dataset": "facebook/flores",
+  "generation": {
+    "endpoint": "https://picture-showers-exempt-foundation.trycloudflare.com/generate",
+    "api_language": "Auto",
+    "max_new_tokens": 256,
+    "temperature": 0.01,
+    "top_p": 1.0,
+    "repetition_penalty": 1.0,
+    "timeout": 90,
+    "retries": 3
+  }
+}

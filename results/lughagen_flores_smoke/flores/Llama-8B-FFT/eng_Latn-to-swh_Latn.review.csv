@@ -1,0 +1,2 @@
+index,input,reference_output,model_output,score_type,item_score,normalized_prediction,endpoint_latency_ms
+0,"""We now have 4-month-old mice that are non-diabetic that used to be diabetic,"" he added.","""Sasa tuna panya wenye umri wa miezi minne ambao hawana kisukari ambao awali walikuwa na kisukari"", aliongeza.",".: ""Tuna mice 4-month-old ambayo sio diabetic ambayo ilikuwa diabetic,"" aliongeza.",sentence ChrF,23.035290335728238,,768.52

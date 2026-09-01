@@ -1,0 +1,2 @@
+index,input,reference_output,model_output,score_type,item_score,normalized_prediction,endpoint_latency_ms
+0,"""Sasa tuna panya wenye umri wa miezi minne ambao hawana kisukari ambao awali walikuwa na kisukari"", aliongeza.","""We now have 4-month-old mice that are non-diabetic that used to be diabetic,"" he added.",".: ""We have four months old rats who do not have diabetes who were overweight in the past"", he said.",sentence ChrF,25.06636652300056,,1126.04

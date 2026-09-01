@@ -1,0 +1,32 @@
+{
+  "created_at": "2026-08-29T08:15:31.601063+00:00",
+  "tasks": [
+    "flores"
+  ],
+  "models": [
+    "Llama-8B-FFT",
+    "Llama-8B-CPT",
+    "Llama-8B-QLoRA",
+    "Gemma2-27B-FFT",
+    "Gemma2-27B-CPT"
+  ],
+  "languages": [
+    "swh_Latn",
+    "luo_Latn",
+    "kik_Latn",
+    "kam_Latn"
+  ],
+  "limit": null,
+  "flores_directions": "both",
+  "flores_dataset": "facebook/flores",
+  "generation": {
+    "endpoint": "https://picture-showers-exempt-foundation.trycloudflare.com/generate",
+    "api_language": "Auto",
+    "max_new_tokens": 256,
+    "temperature": 0.01,
+    "top_p": 1.0,
+    "repetition_penalty": 1.0,
+    "timeout": 90,
+    "retries": 3
+  }
+}

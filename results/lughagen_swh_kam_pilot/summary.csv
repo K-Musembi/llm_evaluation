@@ -1,0 +1,8 @@
+task,model,language,n,accuracy,chrf,mean_latency_ms
+sib,Gemma2-27B-FFT,swh_Latn,3,0.0,,27585.676666666666
+sib,Llama-8B-CPT,kam_Latn,20,0.0,,1307.157
+sib,Llama-8B-CPT,swh_Latn,20,0.0,,784.088
+sib,Llama-8B-FFT,kam_Latn,20,0.0,,2364.848
+sib,Llama-8B-FFT,swh_Latn,20,0.15,,1300.779
+sib,Llama-8B-QLoRA,kam_Latn,3,0.0,,20163.993333333332
+sib,Llama-8B-QLoRA,swh_Latn,20,0.0,,9077.4915

@@ -1,0 +1,10 @@
+{
+  "task": "sib",
+  "model": "Llama-8B-QLoRA",
+  "language": "kam_Latn",
+  "examples": 20,
+  "review_file": "kam_Latn.review.csv",
+  "score_type": "accuracy",
+  "score": 0.2,
+  "item_score_type": "exact category accuracy (0 or 1)"
+}
