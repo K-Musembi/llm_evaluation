@@ -5,6 +5,6 @@
   "examples": 1012,
   "review_file": "eng_Latn-to-swh_Latn.review.csv",
   "score_type": "corpus ChrF",
-  "score": 15.991211514269828,
+  "score": 16.148178811870974,
   "item_score_type": "sentence ChrF (for human inspection; headline score is corpus ChrF)"
 }
